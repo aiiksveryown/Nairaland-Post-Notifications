@@ -1,0 +1,1 @@
+"C:\Users\aiiks\AppData\Local\Programs\Python\Python37\python.exe" "C:\Users\aiiks\Workspace\Beautifulsoup\file.py"
