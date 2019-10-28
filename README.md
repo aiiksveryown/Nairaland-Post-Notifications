@@ -1,0 +1,1 @@
+A simple script to notify me of new posts from specific predefined users. Using Beautiful Soup 4 to get data from nairaland.com, mode of delivery for notification is yet to be decided.
